@@ -6,6 +6,7 @@
         "Venda": 1500,
         "Data": "2023-01-15"
     },
+
     {
         "Produto": "Mouse Sem Fio",
         "Categoria": "Eletrônicos",
@@ -13,6 +14,7 @@
         "Venda": 30,
         "Data": "2023-01-15"
     },
+    
     {
         "Produto": "Teclado Mecânico",
         "Categoria": "Eletrônicos",
